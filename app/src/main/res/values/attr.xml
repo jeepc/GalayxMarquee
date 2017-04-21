@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="color" format="color|reference" />
+    <attr name="progress" format="float" />
+
+    <declare-styleable name="MarqueeView">
+        <attr name="color" />
+        <attr name="progress" />
+    </declare-styleable>
+
+</resources>
